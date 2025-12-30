@@ -1,4 +1,4 @@
-# 🏦 Bank Account Management System (Python)
+# Bank Account Management System (Python)
 
 A **Python-based command-line Bank Account Management System** that allows users to create bank accounts, deposit and withdraw money, and view account balances. The system uses a CSV file as a persistent data store and leverages **Pandas** for efficient data handling.
 
@@ -6,7 +6,7 @@ This project is well-suited for beginners learning **Python, file handling, Pand
 
 ---
 
-## 📌 Features
+## Features
 
 - Create a new bank account
 - Deposit money into an existing account
@@ -17,7 +17,7 @@ This project is well-suited for beginners learning **Python, file handling, Pand
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Pandas**
@@ -26,7 +26,7 @@ This project is well-suited for beginners learning **Python, file handling, Pand
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── bank_account.py
@@ -36,7 +36,7 @@ This project is well-suited for beginners learning **Python, file handling, Pand
 
 ---
 
-## 📊 Dataset Requirements
+## Dataset Requirements
 
 The CSV file (`python_bankAccount.csv`) must contain the following columns:
 
@@ -55,7 +55,7 @@ cust_id,first_name,last_name,ph_num,balance
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -81,7 +81,7 @@ cust_id,first_name,last_name,ph_num,balance
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - User data is loaded from a CSV file into a Pandas DataFrame
 - Each operation (create, deposit, withdraw, balance check) updates the DataFrame
@@ -89,7 +89,7 @@ cust_id,first_name,last_name,ph_num,balance
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Input validation and exception handling
 - PIN/password authentication
@@ -100,7 +100,7 @@ cust_id,first_name,last_name,ph_num,balance
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Practical use of Pandas for CRUD operations
 - Understanding data persistence with CSV files
@@ -109,7 +109,3 @@ cust_id,first_name,last_name,ph_num,balance
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project for educational purposes.
